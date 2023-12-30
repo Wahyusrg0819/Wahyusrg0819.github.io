@@ -67,7 +67,7 @@
                     <h4 class="modal-title">Konfirmasi</h4>
                 </div>
                 <div class="modal-body btn-info">
-                    Apakah Anda yakin ingin menghapus data ini ?
+                    Apakah Anda yakin ingin menghapus data ini?
                 </div>
                 <div class="modal-footer">
                     <a href="javascript:;" class="btn btn-danger" id="hapus-true-data">Hapus</a>
